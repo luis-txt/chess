@@ -1,3 +1,3 @@
 # Chess
 
-A chess game.
+A chess game made in the Flutter framework, written in Dart.
